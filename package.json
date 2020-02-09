@@ -1,0 +1,10 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "description": "MA 2 Workflow",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
